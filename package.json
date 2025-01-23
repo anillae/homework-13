@@ -1,0 +1,17 @@
+{
+  "name": "homework-13",
+  "version": "1.0.0",
+  "description": "тестирование",
+  "main": "script.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Alina Kotova",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^11.1.0",
+    "node-fetch": "^3.3.2",
+    "sinon": "^19.0.2"
+  }
+}
